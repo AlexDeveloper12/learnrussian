@@ -56,7 +56,7 @@ function CustomTabNavigator() {
       <Tab.Screen name="Letters" component={HomeScreen} />
       <Tab.Screen name="Phrases" component={BasicPhrases} options={{ title: 'Phrases' }} />
       {/* <Tab.Screen name="Authors" component={FamousRussianAuthors} options={{ title: 'Authors' }} /> */}
-      <Tab.Screen name="QuizMenu" component={QuizMenu} options={{title:'Quiz'}}/>
+      {/* <Tab.Screen name="QuizMenu" component={QuizMenu} options={{title:'Quiz'}}/> */}
       <Tab.Screen name="FlashCard" component={FlashCard} options={{ title: 'Cards' }} />
     </Tab.Navigator>
 
@@ -76,7 +76,7 @@ export default function App() {
           <Stack.Screen name="QuizMenu" component={QuizMenu}/>
           {/* <Stack.Screen name="SingleFamousAuthor" component={SingleFamousAuthor} options={({ route }) => ({ title: route.params.authorName })} /> */}
           <Stack.Screen name="FlashCard" component={FlashCard} options={{ title: screenTitles.cards }} />
-          <Stack.Screen name="Quiz" component={Quiz}/>
+          {/* <Stack.Screen name="Quiz" component={Quiz}/> */}
         </Stack.Navigator>
       </NavigationContainer>
     </AppearanceProvider>
