@@ -28,4 +28,4 @@ axios
 
 react-native-sqlite-storage
 
-![ Alt text](2021_02_17_11_45_39_1. gif) / ! [](2021_02_17_11_45_39_1. gif)
+![ Learn Basic Russian](2021_02_17_11_45_39_1.gif) / ! [](2021_02_17_11_45_39_1.gif)
