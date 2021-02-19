@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'white', height: '30%'
   },
   innerContainer: {
-    height: '40%', backgroundColor: 'white'
+    height: '60%', backgroundColor: 'white'
   },
   bottomButton: {
     flexDirection: 'row', position: 'absolute', bottom: 0

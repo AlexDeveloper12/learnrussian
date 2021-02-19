@@ -22,7 +22,7 @@
     "axios": "^0.19.2",
     "moment": "^2.27.0",
     "react": "16.13.1",
-    "react-native": "0.63.1",
+    "react-native": "0.63.4",
     "react-native-appearance": "^0.3.4",
     "react-native-audio-toolkit": "^1.0.6",
     "react-native-awesome-alerts": "^1.4.2",
