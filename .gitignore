@@ -62,3 +62,13 @@ buck-out/
 
 /components/database
 
+
+app/
+.git/
+gradle/
+build.gradle
+.gitignore
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle
